@@ -1,0 +1,2 @@
+# laravelcrud
+My Laravel assignment
